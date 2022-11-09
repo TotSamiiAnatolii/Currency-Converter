@@ -1,7 +1,7 @@
 # Currency Converter
 
 ## Welcome! This is my new pet-project Currency Converter!
-<img src="https://user-images.githubusercontent.com/95617906/200814246-211bbf24-2881-4176-b150-95748381f31e.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/95617906/200814246-211bbf24-2881-4176-b150-95748381f31e.jpg" width="250" />
 
 ![2022-11-09 14 03 35](https://user-images.githubusercontent.com/95617906/200814246-211bbf24-2881-4176-b150-95748381f31e.jpg)
 
