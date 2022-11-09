@@ -2,7 +2,7 @@
 
 ## Welcome! This is my new pet-project Currency Converter!
 
-<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/95617906/200814386-61336243-cd1c-46d2-b36c-91f94367b2b8.jpg)" width="200" height="400" />
+<img src="[[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/95617906/200814386-61336243-cd1c-46d2-b36c-91f94367b2b8.jpg)](https://user-images.githubusercontent.com/95617906/200814246-211bbf24-2881-4176-b150-95748381f31e.jpg)" width="200" height="400" />
 
 ![2022-11-09 14 03 35](https://user-images.githubusercontent.com/95617906/200814246-211bbf24-2881-4176-b150-95748381f31e.jpg)
 
