@@ -230,7 +230,7 @@ extension ConverterViewController: ConverterDataSourceDelegate {
         guard let currentСurrency = dataSource.currentСurrency else { return ""}
         
         if currentСurrency.charCode == baseFrom.charCode {
-            return  unitOfCurrency(model: to)
+            return unitOfCurrency(model: to)
         }
 
         let currentUnitOfCurrency = currentСurrency.value / Double(currentСurrency.nominal)

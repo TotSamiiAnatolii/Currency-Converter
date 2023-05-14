@@ -223,9 +223,9 @@ final class ViewKeyBoard: UIView {
     
     private func insertText(_ text: String) {
         guard let range = target?.selectedRange else { return }
-        
+
         guard let textField = target as? UITextField else { return }
-        
+
         if textField.delegate?.textField?(textField, shouldChangeCharactersIn: range, replacementString: text) == false  { return }
         
         target?.insertText(text)

@@ -48,7 +48,7 @@ extension CurrencyFromDataSource: UITableViewDelegate, UITableViewDataSource {
         
         guard let cell = tableView.dequeueReusableCell(withIdentifier: CurrencyFromCell.identifier, for: indexPath) as? CurrencyFromCell else {return UITableViewCell()}
         
-        if indexPath.row < models.count {            
+        if indexPath.row < models.count {
             if self.model[indexPath.row].isSelected {
                 lastSelectedIndexPath = indexPath
             }
