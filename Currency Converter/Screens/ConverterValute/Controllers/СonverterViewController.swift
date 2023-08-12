@@ -127,9 +127,9 @@ final class ConverterViewController: UIViewController, UITextFieldDelegate {
     
     private func replaceCurrencyTo(currency: Valute, isCurrency: Bool) {
         guard var currentСurrency = dataSource.currentСurrency else {return}
-        
+
         guard let index = (dataSource.currencyTo.firstIndex{$0.name == currency.name}) else { return }
-        
+
         if isCurrency {
           currentСurrency.isSelected = true
         } else {
@@ -137,7 +137,7 @@ final class ConverterViewController: UIViewController, UITextFieldDelegate {
         }
         dataSource.currencyTo[index] = currentСurrency
     }
-    
+
     private func replaсeFavoriteArray(currency: Valute) -> Bool {
         guard let currentСurrency = dataSource.currentСurrency else {return false}
         
